@@ -5,15 +5,12 @@
 I love technology! I’m passionate about cloud infrastructure, automation, and all things AWS. Whether it’s building scalable architectures or streamlining DevOps workflows, I enjoy tackling challenges and learning something new every day.
 
 ---
-
 ### 🛠️ Top Skills
 - **AWS** – Designing secure, scalable, and cost-effective cloud solutions
 - **Terraform** – Infrastructure as Code for fast, repeatable cloud deployments
 - **Linux** – Scripting, automation, and server management
 - **GitHub** – Version control, collaboration, and open source
-
 ---
-
 ### 📦 Featured Projects
 
 - [S3-simple-secure](https://github.com/gilsacer/S3-simple-secure)  
@@ -29,18 +26,15 @@ I love technology! I’m passionate about cloud infrastructure, automation, and 
   *Starter templates for AWS VPC setups.*
 
 ---
-
 ### 🌱 Interests
 - Cloud architecture & automation
 - DevOps best practices
 - Open source collaboration
 - Tech innovation & continuous learning
-
 ---
-
 ### 📫 Connect with me
 
-[![LinkedIn](https://www.linkedin.com/in/gilson-pires-%E2%98%81%EF%B8%8F-484b1534)
+[![LinkedIn](https://www.linkedin.com/in/gilson-pires-%E2%98%81%EF%B8%8F-484b1534/)
 
 ---
 

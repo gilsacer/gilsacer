@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Gilson Pires!
 <img src="https://komarev.com/ghpvc/?username=gilsacer&color=yellow" alt="Profile views" /> 
-<img align="right" src="https://images.credly.com/size/220x220/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="100px" />
-<br>
+<img align="right" src="https://images.credly.com/size/220x220/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="150px" />
 
 ## 🚀 Cloud Engineer | AWS • Terraform • Linux • GitHub
 

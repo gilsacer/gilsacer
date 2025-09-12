@@ -1,4 +1,4 @@
-# 👋 Hi, I’m gilsacer!
+# 👋 Hi, I’m Gilson Pires!
 
 ## 🚀 Cloud Engineer | AWS • Terraform • Linux • GitHub
 
@@ -34,6 +34,17 @@ I love technology! I’m passionate about cloud infrastructure, automation, and 
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/gilson-pires-%E2%98%81%EF%B8%8F-484b1534/)
 ---
+
+# Tech Stack
+
+<div align="center"><br>
+
+  <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img align="center" alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+ 
+ </div>
 
 _Thanks for visiting! Feel free to check out my repositories or reach out for collaboration._
 

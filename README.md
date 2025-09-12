@@ -24,7 +24,6 @@ I love technology! I’m passionate about cloud infrastructure, automation, and 
 
 - [AWS-VPC-basic](https://github.com/gilsacer/AWS-VPC-basic)  
   *Starter templates for AWS VPC setups.*
-
 ---
 ### 🌱 Interests
 - Cloud architecture & automation

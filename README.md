@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Gilson Pires!
 <img src="https://komarev.com/ghpvc/?username=gilsacer&color=yellow" alt="Profile views" /> 
-## 🚀 Cloud Engineer | AWS • Terraform • Linux • GitHub
+## 🚀 Tech Leader | Cloud Engineer | AWS • Terraform • Linux • GitHub
 
 I love technology! I’m passionate about cloud infrastructure, automation, and all things AWS. Whether it’s building scalable architectures or streamlining DevOps workflows, I enjoy tackling challenges and learning something new every day.
 
